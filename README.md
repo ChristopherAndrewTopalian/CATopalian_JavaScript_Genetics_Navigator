@@ -19,8 +19,6 @@ Video: https://www.youtube.com/watch?v=MwZH8slqW8Q
 
 ![screenshot_007](src/media/textures/screenshots/007.png)
 
-
-
 ---
 
 ### How to Download this App
@@ -32,4 +30,4 @@ Video: https://www.youtube.com/watch?v=MwZH8slqW8Q
 
 ---
 
-Hapy Scripting :-)
+Happy Scripting :-)
