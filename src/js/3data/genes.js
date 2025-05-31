@@ -12,7 +12,8 @@ let genes = [
     {
         name: `TP53`,
         sequence: `AGGTGGAG...`,
-        function: `Tumor suppressor`,mutations: ['R175H', 'R248Q', 'R273H'],
+        function: `Tumor suppressor`,
+        mutations: ['R175H', 'R248Q', 'R273H'],
         chromosome: 17
     },
 
@@ -30,6 +31,70 @@ let genes = [
         function: `Cell growth and division`,
         mutations: ['L858R', 'T790M'],
         chromosome: 7
+    },
+
+    {
+        name: `APOE`,
+        sequence: `GGAATTCG...`,
+        function: `Lipid transport and metabolism`,
+        mutations: ['ε2', 'ε3', 'ε4'],
+        chromosome: 19
+    },
+
+    {
+        name: `HBB`,
+        sequence: `CCTGAGGAG...`,
+        function: `Oxygen transport (beta-globin)`,
+        mutations: ['E6V (sickle cell)', 'CD41/42(-TCTT)'],
+        chromosome: 11
+    },
+
+    {
+        name: `HTT`,
+        sequence: `CAGCAGCAG...`,
+        function: `Neuronal function (huntingtin protein)`,
+        mutations: ['CAG repeat expansion'],
+        chromosome: 4
+    },
+
+    {
+        name: `F8`,
+        sequence: `TGTGGTTG...`,
+        function: `Blood clotting (Factor VIII)`,
+        mutations: ['Intron 22 inversion'],
+        chromosome: 'X'
+    },
+
+    {
+        name: `MYH7`,
+        sequence: `GAGGAGAAA...`,
+        function: `Cardiac muscle contraction`,
+        mutations: ['R403Q', 'R719W'],
+        chromosome: 14
+    },
+
+    {
+        name: `DMD`,
+        sequence: `ACTGTTAC...`,
+        function: `Muscle integrity (dystrophin)`,
+        mutations: ['Exon deletions', 'Duplication of exons'],
+        chromosome: 'X'
+    },
+
+    {
+        name: `PAH`,
+        sequence: `GCTGACAA...`,
+        function: `Phenylalanine metabolism`,
+        mutations: ['R408W', 'IVS12+1G>A'],
+        chromosome: 12
+    },
+
+    {
+        name: `MLH1`,
+        sequence: `ATGTGTTT...`,
+        function: `Mismatch repair in DNA replication`,
+        mutations: ['G1331T', 'IVS14-19A>G'],
+        chromosome: 3
     }
 ];
 

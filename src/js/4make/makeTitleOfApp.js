@@ -11,15 +11,16 @@ function makeTitleOfApp()
     theTitle.style.right = 0 + 'px';
     theTitle.style.bottom = -5 + 'px';
     theTitle.style.margin = 10 + 'px';
+    theTitle.style.fontFamily = 'Arial';
     theTitle.style.fontSize = '15px';
     theTitle.style.fontWeight = 'bold';
     theTitle.style.textAlign = 'right';
     theTitle.style.lineHeight = 15 + 'px';
     theTitle.style.textDecoration = 'none';
-    panelLeft.append(theTitle);
+    ba(theTitle);
 }
 
-//--//
+//----//
 
 // Dedicated to God the Father
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
