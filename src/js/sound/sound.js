@@ -38,7 +38,7 @@ function hoverSound()
         300,     // frequency
         100,     // duration
         'triangle',  // waveType
-        0.05,    // volume
+        0.01,    // volume
         0,         // detune
         0.05,    // attackTime
         0.05,    // releaseTime
@@ -52,7 +52,7 @@ function hoverSound2()
         300,     // frequency
         500,     // duration
         'sine',  // waveType
-        0.05,      // volume
+        0.01,      // volume
         50,       // detune
         0.2,      // attackTime
         0.2,      // releaseTime
@@ -60,27 +60,13 @@ function hoverSound2()
     );
 }
 
-function hoverSound2()
-{
-    playTone(
-        300,     // frequency
-        300,     // duration
-        'triangle',  // waveType
-        0.08,    // volume
-        -200,    // detune
-        0.1,      // attackTime
-        0.1,      // releaseTime
-        0.0       // panValue -0.5 is left
-    );
-}
-
 function clickSound()
 {
     playTone(
-        400,     // frequency
-        500,     // duration
+        300,     // frequency
+        100,     // duration
         'sine',  // waveType
-        0.04,      // volume
+        0.02,      // volume
         0,       // detune
         0.1,      // attackTime
         0.1,      // releaseTime

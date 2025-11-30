@@ -1,6 +1,8 @@
 # CATopalian_JavaScript_Genetics_Navigator
 A JavaScript application that shows a Visual Genetics Database that is easy for students to learn from. The genes are shown with multiple diagram styles.
 
+---
+
 USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html
 
 Video: https://www.youtube.com/watch?v=MwZH8slqW8Q
@@ -31,4 +33,14 @@ Video: https://www.youtube.com/watch?v=MwZH8slqW8Q
 ---
 
 Happy Scripting :-)
+
+---
+
+//----//
+
+// Dedicated to God the Father  
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  
+// https://github.com/ChristopherTopalian  
+// https://github.com/ChristopherAndrewTopalian  
+// https://sites.google.com/view/CollegeOfScripting
 
